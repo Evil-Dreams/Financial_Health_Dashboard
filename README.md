@@ -1,10 +1,10 @@
-# 📊 Financial Health Dashboard
+# Financial Health Dashboard
 
 This Power BI dashboard analyzes an organization's **financial status** using real-time insights. It is tailored for SMEs to visualize trends in revenue, expenses, assets, and cash flow activities.
 
 ---
 
-## 📌 Objective
+## Objective
 
 To develop a dashboard that provides:
 - Clear insights into **income statements**, **balance sheets**, and **cash flows**
@@ -13,14 +13,14 @@ To develop a dashboard that provides:
 
 ---
 
-## 📁 Data Sources
+## Data Sources
 
 - `income_statement.xlsx` (sample dataset)
 - Data includes monthly revenue, profit, cash flow activities, and balance sheet summaries
 
 ---
 
-## 📈 Key Features
+## Key Features
 
 - **Line Charts**: Track Revenue and Net Profit trends
 - **Stacked Column Charts**: Cash flow activities breakdown
@@ -30,13 +30,13 @@ To develop a dashboard that provides:
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 <img width="1211" height="683" alt="Dashboard Output" src="https://github.com/user-attachments/assets/c18280e7-4ef3-42d4-a504-af61a4ea811b" />
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Open the `.pbix` file in Power BI Desktop
 2. Explore insights using slicers and visualizations
@@ -44,7 +44,7 @@ To develop a dashboard that provides:
 
 ---
 
-## 🧠 Insights Gained
+## Insights Gained
 
 - Seasonal revenue trends
 - Positive/negative cash flow months
@@ -52,7 +52,7 @@ To develop a dashboard that provides:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Power BI
 - Excel (Data Preparation)
